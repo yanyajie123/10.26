@@ -1,0 +1,15 @@
+/*body {*/
+  /*padding: 50px;*/
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+/*}*/
+
+/*a {*/
+  /*color: #00B7FF;*/
+/*}*/
+*{padding: 0; margin: 0;}
+h1{text-align: center; color: blue;}
+.cont{width: 90%; border: 2px solid #000; height: 300px; margin: 20px auto;}
+form{width: 90%; height: 50px; background-color: #335fff; margin: 0 auto;}
+input{width: 300px; height: 70%; background-color: #fff; border: none; outline: none; display: inline-block; margin-top: 8px; margin-left: 15px;}
+.inp2{width: 500px !important;}
+button{width: 120px; height: 70%; background: none; outline: none; display: inline-block; color: #fff; margin-left: 30px;}
